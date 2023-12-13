@@ -5,7 +5,7 @@
 
 My topic could have many parts to it, for example. Health on its own could have many parts to it, there's mental health, physical health, emotional health, and a lot more. But I am going to focus more on the physical aspects of both health and fitness. Some good articles to introduce someone to these fitness aspects are the Web MD article ["Exercise and Weight Loss"](https://www.webmd.com/fitness-exercise/exercise-weight-control), as well as the American Heart Association article ["Why is physical activity so important for health and well-being?"](https://www.heart.org/en/healthy-living/fitness/fitness-basics/why-is-physical-activity-so-important-for-health-and-wellbeing)
 
-### Software 
+## Software 
 
 I spent a couple days researching some pieces of software that are related to health/fitness and these are some that I found that are really innovative and beneficial to the field.
 
@@ -16,6 +16,14 @@ The first piece of software I found that intrigued me is an app called **_MyFitn
 ### [Nike Training Club](https://www.nike.com/ntc-app)
 
 I dug a little deeper into more softwares related to my topic and thats when I found the **_Nike Training Club_**. The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
+
+## Hardware
+
+I then dug into the hardware aspect of fitness/health. Hardware was a pretty difficult thing to determine but I eventually realized that things like personal trainers and gyms counted, so I am going to use gyms and a fitbit as examples of hardware. 
+
+### Fitbit's 
+
+Fitbits are pretty popular piece of hardware when it comes to namability, but not many people actually use them too often. Though Fitbits are not necessary for your fitness journey they are actually a pretty big help. Fitbits are wristwatches that have the ability to accurately count the amount of calories you've burned and the amount of steps you've taken, there are many phone apps that can do this 
 
 
 
