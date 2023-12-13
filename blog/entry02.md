@@ -9,11 +9,11 @@ My topic could have many parts to it, for example. Health on its own could have 
 
 I spent a couple days researching some pieces of software that are related to health/fitness and these are some that I found that are really innovative and beneficial to the field.
 
-## MyFitnessPal
+## [MyFitnessPal](https://www.myfitnesspal.com)
 
 The first piece of software I found that intrigued me is an app called **_MyFitnessPal_**. MyFitnessPal is an app that allows its user to do many things, a lot of these things being very beneficial when it comes to working out and being healthy. MyFitnessPal is mostly known for its ability to log user's food intake and to give it's users accurate nutritional facts about food, these are all health aspects but this app also has features that help with a user's fitness journey. The app also works as a journal for things like weight and stength progression so users can have a virtual place to log their journey.
 
-###
+### 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
