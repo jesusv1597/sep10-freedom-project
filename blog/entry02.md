@@ -15,7 +15,7 @@ The first piece of software I found that intrigued me is an app called **_MyFitn
 
 ### [Nike Training Club](https://www.nike.com/ntc-app)
 
-I dug a little deeper and found an [article]() on an app named  into more softwares related to my topic and thats when I found the **_Nike Training Club_**. The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
+I dug a little deeper and found a site that provided information for the [Nike Training Club](https://www.nike.com/ntc-app) on an app named  into more softwares related to my topic and thats when I found the **_Nike Training Club_**. The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
 
 ## Hardware
 
@@ -23,7 +23,7 @@ I then dug into the hardware aspect of fitness/health. Hardware was a pretty dif
 
 ### Fitbit's 
 
-Fitbits are pretty popular piece of hardware when it comes to namability, but not many people actually use them too often. Though Fitbits are not necessary for your fitness journey they can actually be a pretty big help. Fitbits are wristwatches that have the ability to accurately count the amount of calories you've burned and the amount of steps you've taken, there are many phone apps that can do this this but the difference between them and the fitbits is that fitbits are wearables and go directly on your wrist, meaning they are a lot more accurate than smartphones. 
+The very first thing that came to my mind when I thought of fitness hardware was the _**Fitbit**_ Fitbits are pretty popular piece of hardware when it comes to namability, but not many people actually use them too often. Though Fitbits are not necessary for your fitness journey they can actually be a pretty big help. Fitbits are wristwatches that have the ability to accurately count the amount of calories you've burned and the amount of steps you've taken, there are many phone apps that can do this this but the difference between them and the fitbits is that fitbits are wearables and go directly on your wrist, meaning they are a lot more accurate than smartphones. 
 
 ### Personal Trainers
 
