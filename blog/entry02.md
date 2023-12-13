@@ -15,6 +15,10 @@ The first piece of software I found that intrigued me is an app called **_MyFitn
 
 ### [Nike Training Club](https://www.nike.com/ntc-app)
 
+I dug a little deeper into more softwares related to my topic and thats when I found the **_Nike Training Club_**. The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
+
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
