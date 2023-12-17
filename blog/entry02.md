@@ -15,7 +15,7 @@ The first piece of software I found that intrigued me is an app called **_MyFitn
 
 ### [Nike Training Club](https://www.nike.com/ntc-app)
 
-I dug a little deeper and found a site that provided information for the [Nike Training Club](https://www.nike.com/ntc-app) on an app named  into more softwares related to my topic and thats when I found the **_Nike Training Club_**. The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
+I dug a little deeper and found a site that provided information for the [Nike Training Club App](https://www.nike.com/ntc-app)  The Nike Training Club app is an app that is fairly similar to MyFItnessPal but with a few added features. the Nike Training Club App focuses on the training aspect of fitness and is really useful for finding workout suited to you. One of these features is the ability to connect with trainers online, these trainers are professionals at what they can guide out thoughout your entire fitness journey. The Trainers not only provide advice for working out, they also provide advice when it comes to nutrition as well, meaning you can have entire workout plans and meal plans made specifically for you.
 
 ## Hardware
 
@@ -28,6 +28,18 @@ The very first thing that came to my mind when I thought of fitness hardware was
 ### Personal Trainers
 
 Personal trainers are a fairly well known concept when it comes to fitness but they are once again not used as much as other concepts. And though I understand that they could be pretty pricey at times, they could be really beneficial for people who need someone to motivate them and to give them the plans they need in order reach their fitness goal. I first looked up "Fitness trainers" on google and spotted plenty of articles talking about where you could find fitness trainers near you. I then looked further and found a site called [FitnessTrainer.com](https://fitnesstrainer.com/) this site allows you to search for fitness trainers in your area and lets you get in touch with them in order to hire them to assist you along your fitness journey.
+
+## EDP (Engineering Design Process)
+
+I am currently at the **_Brainstorm_** section of my freedom project as I have already defined my problem and researched technology that has to do with my topic. And now I have to take some time to think of possible future technologies that will be very impactful to the field of *Fitness/Health*.
+
+## Skills
+
+This blog took a lot more research than my previous one because I had to spend a couple of days looking through technologies that have to do with my field. Though this may have been a pretty long and tedious search process, it actually taught me more about googling and using google to find out information technologies. I found plenty of trustworthy sites along way that all involved information on fitness and health. I also improved my creativity when it came to thinking up new ideas for prototype technologies for the future. I found out what things were most important when it came to being fit and healthy, and now I am going to think of some products that target all of these ideas, sort of like a fusion product that implements all the features of the technologies I spoke about in this blog into one. 
+
+## Summary
+
+Though this blog took a lot of time and research to finish, it also left me hopeful for our future blogs because I now have more knowledge on my field. I can use the knowledge I gained from the research on this blog and use it for my next blog as I assume it is going to require a lot more research and creativity than this one, so I am going to need as much information and insight into my topic as I can get.
 
 
 
