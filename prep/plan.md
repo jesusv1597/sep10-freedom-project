@@ -8,7 +8,9 @@
 * [Desktop 2](../cwf2.png)
 
 ## Colors
-* `#ABC123`
+* `#A2A2A2`
+* `#FFFFFF`
+* `#000000`
 
 ## Fonts
 * [Text](URL)
