@@ -2,6 +2,7 @@
 
 ## Wireframes
 * [Mobile](../pwf1.png)
+* [Mobile 2](../pwf2.png)
 * [Desktop]()
 
 ## Colors
