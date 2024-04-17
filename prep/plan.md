@@ -1,7 +1,7 @@
 # Plan
 
 ## Wireframes
-* [Mobile](../tool/pwf1.png)
+* [Mobile](../pwf1.png)
 * [Desktop]()
 
 ## Colors
