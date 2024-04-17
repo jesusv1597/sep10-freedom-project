@@ -3,7 +3,9 @@
 ## Wireframes
 * [Mobile](../pwf1.png)
 * [Mobile 2](../pwf2.png)
-* [Desktop]()
+
+* [Desktop](../cwf1.png)
+* [Desktop 2](../cwf2.png)
 
 ## Colors
 * `#ABC123`
