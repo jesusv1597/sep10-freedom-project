@@ -11,9 +11,44 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+ * {
+  width: auto;
+ }
+
 .present {
-  text-align: left;
+  text-align: center;
+  padding: 20px;
+
 }
+
+
+
+.fitnesspal {
+  display: block;
+  margin: auto;
+  padding: auto;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  width: 675px;
+  height: 500px;
+  image-align: center;
+}
+
+
+.fitbit {
+  display: block;
+  margin: auto;
+  padding: auto;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  width: 675px;
+  height: 500px;
+  image-align: center;
+}
+
+
 
  :root {
   --bs-blue: #0d6efd;
